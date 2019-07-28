@@ -20,5 +20,6 @@ and special configurations in the `index.html` that can support autoplay in iOS.
 ### Requirements
 
 - iOS 9 or newer.
+- Pico-8 0.1.12.c or newer.
 
 Made with <i class="fa fa-heart">&#9829;</i> by <a href="http://ninjas.cl" target="_blank">Ninjas.cl</a>.

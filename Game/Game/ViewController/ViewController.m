@@ -20,7 +20,7 @@
     
     [super viewDidLoad];
     
-    NSLog(@"\nWelcome to Profesor Rossa v1.1\nMade by Camilo Castro <camilo@ninjas.cl>\n2017-2019.\nDense un Lujo!.\nFrom Chile with Love.\nPico pal que lee.");
+    NSLog(@"\nWelcome to Pico-8 iOS Wrapper 1.0");
     
     WKWebViewConfiguration * config = [WKWebViewConfiguration new];
     

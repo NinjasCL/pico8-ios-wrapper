@@ -5,8 +5,6 @@ Enables releasing Pico-8 games to the AppStore.
 
 ![](https://user-images.githubusercontent.com/292738/62010641-6eb42f80-b13b-11e9-9efc-2bf9b0dcbbfc.png)
 
-![](https://user-images.githubusercontent.com/292738/62010642-6eb42f80-b13b-11e9-9876-003995931312.png)
-
 ## Instructions
 
 - 1. (in Pico-8) Export your game to html. `export game.html` (use `folder` to see the contents).
